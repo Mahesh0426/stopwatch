@@ -1,0 +1,27 @@
+body {
+  background: rgb(109, 67, 201);
+  padding: 10rem;
+}
+.btn {
+  background-color: green;
+  color: white;
+  border: none;
+  height: 100px;
+  width: 150px;
+  border-radius: 8px;
+}
+input {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  text-align: center;
+  color: red;
+  border: 2px solid green;
+  font-size: 3rem;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
